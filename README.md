@@ -4,7 +4,7 @@
 - 📫 How to reach me :
     - 🐤 Twitter : [https://twitter.com/WolfGang1710](@WolfGang1710).
     - 📧 Mail : [william.roguet@uha.fr](mailto:william.roguet@uha.fr).
-- I'm learning / I learnt C, C++, Java, $LaTeX$, Python, SQL.
+- I'm learning / I learnt Bash, C, C++, Docker, Java, $LaTeX$, Python, SQL.
 - I'm also working for McDonald's as multi-skilled team member and I tutor in mathematics at ENSISA.
 
 <!---
